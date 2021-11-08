@@ -1,0 +1,22 @@
+{
+  "name": "test-arrows",
+  "version": "1.0.0",
+  "description": "To use this repository: - Click the \"Use this template\" button in the upper right - Choose a name for your repository and create it - In your own repository, click the green \"Gitpod\" button",
+  "main": "arrow-functions.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roibeard-Ruadhan/test-arrows-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roibeard-Ruadhan/test-arrows-js/issues"
+  },
+  "homepage": "https://github.com/Roibeard-Ruadhan/test-arrows-js#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
